@@ -1,0 +1,17 @@
+D:\Programing\AlbumTestTask\AlbumTestTask.Repository\bin\Debug\net8.0\AlbumTestTask.Repository.deps.json
+D:\Programing\AlbumTestTask\AlbumTestTask.Repository\bin\Debug\net8.0\AlbumTestTask.Repository.dll
+D:\Programing\AlbumTestTask\AlbumTestTask.Repository\bin\Debug\net8.0\AlbumTestTask.Repository.pdb
+D:\Programing\AlbumTestTask\AlbumTestTask.Repository\bin\Debug\net8.0\AlbumTestTask.Domain.dll
+D:\Programing\AlbumTestTask\AlbumTestTask.Repository\bin\Debug\net8.0\AlbumTestTask.Domain.pdb
+D:\Programing\AlbumTestTask\AlbumTestTask.Repository\obj\Debug\net8.0\AlbumTestTask.Repository.csproj.AssemblyReference.cache
+D:\Programing\AlbumTestTask\AlbumTestTask.Repository\obj\Debug\net8.0\AlbumTestTask.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\AlbumTestTask\AlbumTestTask.Repository\obj\Debug\net8.0\AlbumTestTask.Repository.AssemblyInfoInputs.cache
+D:\Programing\AlbumTestTask\AlbumTestTask.Repository\obj\Debug\net8.0\AlbumTestTask.Repository.AssemblyInfo.cs
+D:\Programing\AlbumTestTask\AlbumTestTask.Repository\obj\Debug\net8.0\AlbumTestTask.Repository.csproj.CoreCompileInputs.cache
+D:\Programing\AlbumTestTask\AlbumTestTask.Repository\obj\Debug\net8.0\AlbumTes.910FD87D.Up2Date
+D:\Programing\AlbumTestTask\AlbumTestTask.Repository\obj\Debug\net8.0\AlbumTestTask.Repository.dll
+D:\Programing\AlbumTestTask\AlbumTestTask.Repository\obj\Debug\net8.0\refint\AlbumTestTask.Repository.dll
+D:\Programing\AlbumTestTask\AlbumTestTask.Repository\obj\Debug\net8.0\AlbumTestTask.Repository.pdb
+D:\Programing\AlbumTestTask\AlbumTestTask.Repository\obj\Debug\net8.0\ref\AlbumTestTask.Repository.dll
+D:\Programing\AlbumTestTask\AlbumTestTask.Repository\bin\Debug\net8.0\AlbumTestTask.Repository.runtimeconfig.json
+D:\Programing\AlbumTestTask\AlbumTestTask.Repository\obj\Debug\net8.0\AlbumTestTask.Repository.genruntimeconfig.cache

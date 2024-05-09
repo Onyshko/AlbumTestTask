@@ -1,0 +1,12 @@
+D:\Programing\AlbumTestTask\AlbumTestTask.Services\bin\Debug\net8.0\AlbumTestTask.Services.deps.json
+D:\Programing\AlbumTestTask\AlbumTestTask.Services\bin\Debug\net8.0\AlbumTestTask.Services.dll
+D:\Programing\AlbumTestTask\AlbumTestTask.Services\bin\Debug\net8.0\AlbumTestTask.Services.pdb
+D:\Programing\AlbumTestTask\AlbumTestTask.Services\obj\Debug\net8.0\AlbumTestTask.Services.csproj.AssemblyReference.cache
+D:\Programing\AlbumTestTask\AlbumTestTask.Services\obj\Debug\net8.0\AlbumTestTask.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\AlbumTestTask\AlbumTestTask.Services\obj\Debug\net8.0\AlbumTestTask.Services.AssemblyInfoInputs.cache
+D:\Programing\AlbumTestTask\AlbumTestTask.Services\obj\Debug\net8.0\AlbumTestTask.Services.AssemblyInfo.cs
+D:\Programing\AlbumTestTask\AlbumTestTask.Services\obj\Debug\net8.0\AlbumTestTask.Services.csproj.CoreCompileInputs.cache
+D:\Programing\AlbumTestTask\AlbumTestTask.Services\obj\Debug\net8.0\AlbumTestTask.Services.dll
+D:\Programing\AlbumTestTask\AlbumTestTask.Services\obj\Debug\net8.0\refint\AlbumTestTask.Services.dll
+D:\Programing\AlbumTestTask\AlbumTestTask.Services\obj\Debug\net8.0\AlbumTestTask.Services.pdb
+D:\Programing\AlbumTestTask\AlbumTestTask.Services\obj\Debug\net8.0\ref\AlbumTestTask.Services.dll

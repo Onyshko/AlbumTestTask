@@ -1,0 +1,12 @@
+D:\Programing\AlbumTestTask\AlbumTestTask.Domain\bin\Debug\net8.0\AlbumTestTask.Domain.deps.json
+D:\Programing\AlbumTestTask\AlbumTestTask.Domain\bin\Debug\net8.0\AlbumTestTask.Domain.dll
+D:\Programing\AlbumTestTask\AlbumTestTask.Domain\bin\Debug\net8.0\AlbumTestTask.Domain.pdb
+D:\Programing\AlbumTestTask\AlbumTestTask.Domain\obj\Debug\net8.0\AlbumTestTask.Domain.csproj.AssemblyReference.cache
+D:\Programing\AlbumTestTask\AlbumTestTask.Domain\obj\Debug\net8.0\AlbumTestTask.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\AlbumTestTask\AlbumTestTask.Domain\obj\Debug\net8.0\AlbumTestTask.Domain.AssemblyInfoInputs.cache
+D:\Programing\AlbumTestTask\AlbumTestTask.Domain\obj\Debug\net8.0\AlbumTestTask.Domain.AssemblyInfo.cs
+D:\Programing\AlbumTestTask\AlbumTestTask.Domain\obj\Debug\net8.0\AlbumTestTask.Domain.csproj.CoreCompileInputs.cache
+D:\Programing\AlbumTestTask\AlbumTestTask.Domain\obj\Debug\net8.0\AlbumTestTask.Domain.dll
+D:\Programing\AlbumTestTask\AlbumTestTask.Domain\obj\Debug\net8.0\refint\AlbumTestTask.Domain.dll
+D:\Programing\AlbumTestTask\AlbumTestTask.Domain\obj\Debug\net8.0\AlbumTestTask.Domain.pdb
+D:\Programing\AlbumTestTask\AlbumTestTask.Domain\obj\Debug\net8.0\ref\AlbumTestTask.Domain.dll

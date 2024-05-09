@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programing\\AlbumTestTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A45B028F-62B9-467B-9560-4D65BA56565D}|AlbumTestTask.Repository\\AlbumTestTask.Repository.csproj|d:\\programing\\albumtesttask\\albumtesttask.repository\\albumtesttask.repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A45B028F-62B9-467B-9560-4D65BA56565D}|AlbumTestTask.Repository\\AlbumTestTask.Repository.csproj|solutionrelative:albumtesttask.repository\\albumtesttask.repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72D20B1-3DFA-4158-9D26-15940811D03F}|AlbumTestTask.Server\\AlbumTestTask.Server.csproj|d:\\programing\\albumtesttask\\albumtesttask.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72D20B1-3DFA-4158-9D26-15940811D03F}|AlbumTestTask.Server\\AlbumTestTask.Server.csproj|solutionrelative:albumtesttask.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A45B028F-62B9-467B-9560-4D65BA56565D}|AlbumTestTask.Repository\\AlbumTestTask.Repository.csproj|d:\\programing\\albumtesttask\\albumtesttask.repository\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A45B028F-62B9-467B-9560-4D65BA56565D}|AlbumTestTask.Repository\\AlbumTestTask.Repository.csproj|solutionrelative:albumtesttask.repository\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72D20B1-3DFA-4158-9D26-15940811D03F}|AlbumTestTask.Server\\AlbumTestTask.Server.csproj|d:\\programing\\albumtesttask\\albumtesttask.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C72D20B1-3DFA-4158-9D26-15940811D03F}|AlbumTestTask.Server\\AlbumTestTask.Server.csproj|solutionrelative:albumtesttask.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 186,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AlbumTestTask.Repository",
+              "DocumentMoniker": "D:\\Programing\\AlbumTestTask\\AlbumTestTask.Repository\\AlbumTestTask.Repository.csproj",
+              "RelativeDocumentMoniker": "AlbumTestTask.Repository\\AlbumTestTask.Repository.csproj",
+              "ToolTip": "D:\\Programing\\AlbumTestTask\\AlbumTestTask.Repository\\AlbumTestTask.Repository.csproj",
+              "RelativeToolTip": "AlbumTestTask.Repository\\AlbumTestTask.Repository.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-09T21:04:53.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Programing\\AlbumTestTask\\AlbumTestTask.Repository\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "AlbumTestTask.Repository\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Programing\\AlbumTestTask\\AlbumTestTask.Repository\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "AlbumTestTask.Repository\\Context\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T20:53:24.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Programing\\AlbumTestTask\\AlbumTestTask.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "AlbumTestTask.Server\\appsettings.json",
+              "ToolTip": "D:\\Programing\\AlbumTestTask\\AlbumTestTask.Server\\appsettings.json",
+              "RelativeToolTip": "AlbumTestTask.Server\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-09T20:46:21.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programing\\AlbumTestTask\\AlbumTestTask.Server\\Program.cs",
+              "RelativeDocumentMoniker": "AlbumTestTask.Server\\Program.cs",
+              "ToolTip": "D:\\Programing\\AlbumTestTask\\AlbumTestTask.Server\\Program.cs",
+              "RelativeToolTip": "AlbumTestTask.Server\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAowAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T20:44:39.149Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
