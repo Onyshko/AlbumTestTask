@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "krf1bXc5L7XqDfY1jBr1WV4O6qMfblBCJwN3eH/R57gr9Oyh1hXIwGTfQW9uRj9e2E+6Z1RAv9qtQzlY3yXG8Q==",
+  "dgSpecHash": "wOx4iFD9bPDa15IwNWo6+5DmSmR6JbD+ar561Pphi7qiL6yNh7mgI1ikVqfPQEJwTzLyRWmzTT6Nbr+pSlRumw==",
   "success": true,
   "projectFilePath": "D:\\Programing\\AlbumTestTask\\AlbumTestTask.Repository\\AlbumTestTask.Repository.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\onisk\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\onisk\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\onisk\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
     "C:\\Users\\onisk\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

@@ -15,3 +15,4 @@ D:\Programing\AlbumTestTask\AlbumTestTask.Repository\obj\Debug\net8.0\AlbumTestT
 D:\Programing\AlbumTestTask\AlbumTestTask.Repository\obj\Debug\net8.0\ref\AlbumTestTask.Repository.dll
 D:\Programing\AlbumTestTask\AlbumTestTask.Repository\bin\Debug\net8.0\AlbumTestTask.Repository.runtimeconfig.json
 D:\Programing\AlbumTestTask\AlbumTestTask.Repository\obj\Debug\net8.0\AlbumTestTask.Repository.genruntimeconfig.cache
+D:\Programing\AlbumTestTask\AlbumTestTask.Repository\obj\Debug\net8.0\AlbumTestTask.Repository.sourcelink.json

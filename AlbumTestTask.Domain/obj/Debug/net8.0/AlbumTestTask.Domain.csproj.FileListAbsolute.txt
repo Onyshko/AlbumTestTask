@@ -10,3 +10,4 @@ D:\Programing\AlbumTestTask\AlbumTestTask.Domain\obj\Debug\net8.0\AlbumTestTask.
 D:\Programing\AlbumTestTask\AlbumTestTask.Domain\obj\Debug\net8.0\refint\AlbumTestTask.Domain.dll
 D:\Programing\AlbumTestTask\AlbumTestTask.Domain\obj\Debug\net8.0\AlbumTestTask.Domain.pdb
 D:\Programing\AlbumTestTask\AlbumTestTask.Domain\obj\Debug\net8.0\ref\AlbumTestTask.Domain.dll
+D:\Programing\AlbumTestTask\AlbumTestTask.Domain\obj\Debug\net8.0\AlbumTestTask.Domain.sourcelink.json

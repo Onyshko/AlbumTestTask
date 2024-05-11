@@ -2,11 +2,9 @@ import { useState } from "react";
 import { useNavigate } from "react-router-dom";
 
 function Login() {
-    // state variables for email and passwords
     const [email, setEmail] = useState<string>("");
     const [password, setPassword] = useState<string>("");
     const [rememberme, setRememberme] = useState<boolean>(false);
-    // state variable for error messages
     const [error, setError] = useState<string>("");
     const navigate = useNavigate();
 
@@ -70,7 +68,7 @@ function Login() {
     };
 
     return (
-        <div className="containerbox">
+        <div className="containerbox centered-container">
             <h3>Login</h3>
             <form onSubmit={handleSubmit}>
                 <div>

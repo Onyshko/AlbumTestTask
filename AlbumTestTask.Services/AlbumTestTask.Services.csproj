@@ -7,7 +7,13 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="13.0.1" />
     <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="8.0.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+	<ProjectReference Include="..\AlbumTestTask.Repository\AlbumTestTask.Repository.csproj" />
+    <ProjectReference Include="..\AlbumTestTask.Domain\AlbumTestTask.Domain.csproj" />
   </ItemGroup>
 
 </Project>

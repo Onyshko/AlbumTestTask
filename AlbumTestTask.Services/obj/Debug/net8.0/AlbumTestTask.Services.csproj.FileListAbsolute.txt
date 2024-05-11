@@ -10,3 +10,9 @@ D:\Programing\AlbumTestTask\AlbumTestTask.Services\obj\Debug\net8.0\AlbumTestTas
 D:\Programing\AlbumTestTask\AlbumTestTask.Services\obj\Debug\net8.0\refint\AlbumTestTask.Services.dll
 D:\Programing\AlbumTestTask\AlbumTestTask.Services\obj\Debug\net8.0\AlbumTestTask.Services.pdb
 D:\Programing\AlbumTestTask\AlbumTestTask.Services\obj\Debug\net8.0\ref\AlbumTestTask.Services.dll
+D:\Programing\AlbumTestTask\AlbumTestTask.Services\bin\Debug\net8.0\AlbumTestTask.Domain.dll
+D:\Programing\AlbumTestTask\AlbumTestTask.Services\bin\Debug\net8.0\AlbumTestTask.Repository.dll
+D:\Programing\AlbumTestTask\AlbumTestTask.Services\bin\Debug\net8.0\AlbumTestTask.Repository.pdb
+D:\Programing\AlbumTestTask\AlbumTestTask.Services\bin\Debug\net8.0\AlbumTestTask.Domain.pdb
+D:\Programing\AlbumTestTask\AlbumTestTask.Services\obj\Debug\net8.0\AlbumTestTask.Services.sourcelink.json
+D:\Programing\AlbumTestTask\AlbumTestTask.Services\obj\Debug\net8.0\AlbumTes.33F4C3B6.Up2Date

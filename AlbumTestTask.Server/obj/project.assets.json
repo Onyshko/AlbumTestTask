@@ -2,6 +2,22 @@
   "version": 3,
   "targets": {
     "net8.0": {
+      "AutoMapper/13.0.1": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.Options": "6.0.0"
+        },
+        "compile": {
+          "lib/net6.0/AutoMapper.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/AutoMapper.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Azure.Core/1.35.0": {
         "type": "package",
         "dependencies": {
@@ -1691,6 +1707,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
+          "AutoMapper": "13.0.1",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "8.0.4"
         },
         "compile": {
@@ -1705,6 +1722,7 @@
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
           "AlbumTestTask.Domain": "1.0.0",
+          "AutoMapper": "13.0.1",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "8.0.4",
           "Microsoft.EntityFrameworkCore": "8.0.4",
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.4"
@@ -1715,10 +1733,41 @@
         "runtime": {
           "bin/placeholder/AlbumTestTask.Repository.dll": {}
         }
+      },
+      "AlbumTestTask.Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "AlbumTestTask.Domain": "1.0.0",
+          "AlbumTestTask.Repository": "1.0.0",
+          "AutoMapper": "13.0.1",
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "8.0.4"
+        },
+        "compile": {
+          "bin/placeholder/AlbumTestTask.Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AlbumTestTask.Services.dll": {}
+        }
       }
     }
   },
   "libraries": {
+    "AutoMapper/13.0.1": {
+      "sha512": "/Fx1SbJ16qS7dU4i604Sle+U9VLX+WSNVJggk6MupKVkYvvBm4XqYaeFuf67diHefHKHs50uQIS2YEDFhPCakQ==",
+      "type": "package",
+      "path": "automapper/13.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "automapper.13.0.1.nupkg.sha512",
+        "automapper.nuspec",
+        "icon.png",
+        "lib/net6.0/AutoMapper.dll",
+        "lib/net6.0/AutoMapper.xml"
+      ]
+    },
     "Azure.Core/1.35.0": {
       "sha512": "hENcx03Jyuqv05F4RBEPbxz29UrM3Nbhnr6Wl6NQpoU9BCIbL3XLentrxDCTrH54NLS11Exxi/o8MYgT/cnKFA==",
       "type": "package",
@@ -4754,11 +4803,18 @@
       "type": "project",
       "path": "../AlbumTestTask.Repository/AlbumTestTask.Repository.csproj",
       "msbuildProject": "../AlbumTestTask.Repository/AlbumTestTask.Repository.csproj"
+    },
+    "AlbumTestTask.Services/1.0.0": {
+      "type": "project",
+      "path": "../AlbumTestTask.Services/AlbumTestTask.Services.csproj",
+      "msbuildProject": "../AlbumTestTask.Services/AlbumTestTask.Services.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
       "AlbumTestTask.Repository >= 1.0.0",
+      "AlbumTestTask.Services >= 1.0.0",
+      "AutoMapper >= 13.0.1",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 8.0.4",
       "Microsoft.AspNetCore.SpaProxy >= 8.*-*",
       "Microsoft.EntityFrameworkCore >= 8.0.4",
@@ -4803,6 +4859,9 @@
           "projectReferences": {
             "D:\\Programing\\AlbumTestTask\\AlbumTestTask.Repository\\AlbumTestTask.Repository.csproj": {
               "projectPath": "D:\\Programing\\AlbumTestTask\\AlbumTestTask.Repository\\AlbumTestTask.Repository.csproj"
+            },
+            "D:\\Programing\\AlbumTestTask\\AlbumTestTask.Services\\AlbumTestTask.Services.csproj": {
+              "projectPath": "D:\\Programing\\AlbumTestTask\\AlbumTestTask.Services\\AlbumTestTask.Services.csproj"
             }
           }
         }
@@ -4822,6 +4881,10 @@
       "net8.0": {
         "targetAlias": "net8.0",
         "dependencies": {
+          "AutoMapper": {
+            "target": "Package",
+            "version": "[13.0.1, )"
+          },
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
             "target": "Package",
             "version": "[8.0.4, )"

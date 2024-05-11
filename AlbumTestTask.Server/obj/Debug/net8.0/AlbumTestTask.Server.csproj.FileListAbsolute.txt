@@ -147,3 +147,7 @@ D:\Programing\AlbumTestTask\AlbumTestTask.Server\bin\Debug\net8.0\AlbumTestTask.
 D:\Programing\AlbumTestTask\AlbumTestTask.Server\bin\Debug\net8.0\AlbumTestTask.Repository.dll
 D:\Programing\AlbumTestTask\AlbumTestTask.Server\bin\Debug\net8.0\AlbumTestTask.Repository.pdb
 D:\Programing\AlbumTestTask\AlbumTestTask.Server\bin\Debug\net8.0\AlbumTestTask.Domain.pdb
+D:\Programing\AlbumTestTask\AlbumTestTask.Server\obj\Debug\net8.0\AlbumTestTask.Server.sourcelink.json
+D:\Programing\AlbumTestTask\AlbumTestTask.Server\bin\Debug\net8.0\AutoMapper.dll
+D:\Programing\AlbumTestTask\AlbumTestTask.Server\bin\Debug\net8.0\AlbumTestTask.Services.dll
+D:\Programing\AlbumTestTask\AlbumTestTask.Server\bin\Debug\net8.0\AlbumTestTask.Services.pdb
