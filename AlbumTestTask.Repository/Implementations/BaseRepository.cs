@@ -1,7 +1,6 @@
 ﻿using AlbumTestTask.Domain.Entities;
 using AlbumTestTask.Repository.Context;
 using AlbumTestTask.Repository.Interfaces;
-using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using System.Linq.Expressions;
 

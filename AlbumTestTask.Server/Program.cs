@@ -33,6 +33,7 @@ namespace AlbumTestTask.Server
             builder.Services.AddScoped<IBaseCrudService<AlbumModel>, BaseCrudService<Album, AlbumModel>>();
             builder.Services.AddScoped<IBaseCrudService<PhotoModel>, BaseCrudService<Photo, PhotoModel>>();
             builder.Services.AddScoped<IAlbumService, AlbumService>();
+            builder.Services.AddScoped<IUserService, UserService>();
 
 
             builder.Services.AddDbContext<ApplicationDbContext>(options => {

@@ -1,6 +1,5 @@
 ﻿using AlbumTestTask.Domain.Entities;
 using AlbumTestTask.Repository.Context;
-using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
 namespace AlbumTestTask.Repository.Implementations
